@@ -1,0 +1,17 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+p,
+nav li {
+  font-family: "Montserrat", sans-serif;
+}
+h1,
+h2,
+h3 {
+  font-family: "Bricolage Grotesque", sans-serif;
+}
+nav a.active {
+  color: #84bbec;
+  font-weight: bold;
+}
