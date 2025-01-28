@@ -60,7 +60,7 @@ const Navigation = () => {
       {isOpen && (
         <div
           className="fixed right-0 top-[84px] flex h-screen w-1/2 flex-col items-start justify-start gap-10 
-                 text-foundation bg-foundationblack text-white
+                 text-foundation bg-foundationblack opacity-75 text-white
               p-12 md:hidden"
         >
           <ul className="flex flex-col gap-8 mx-auto">

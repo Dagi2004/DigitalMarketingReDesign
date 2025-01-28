@@ -130,7 +130,7 @@ const Home = () => {
           <h2 className="text-[30px] font-medium leading-[45px]">
             Companies That Trust Us
           </h2>
-          <div className="flex flex-row justify space-x-8 items-center gap-3">
+          <div className="flex flex-row  justify space-x-8 items-center gap-3">
             <img src={cyrus} alt="" className="max-w-[150px] w-full" />
             <img src={jambo} alt="" className="max-w-[150px] w-full" />
             <img src={kadu} alt="" className="max-w-[150px] w-full" />

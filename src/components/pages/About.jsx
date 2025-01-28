@@ -1,7 +1,7 @@
 import React from "react";
 import Navigation from "../Resuable/Navigation";
 import { Footer } from "../Resuable/Footer";
-import Home from "./Home";
+
 import homehero from "../../assets/about-hero.png";
 import innovation from "../../assets/innovation.png";
 import integrity from "../../assets/integrity.png";
