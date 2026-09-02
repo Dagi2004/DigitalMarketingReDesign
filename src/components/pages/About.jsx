@@ -4,7 +4,7 @@ import { Footer } from "../Resuable/Footer";
 
 import homehero from "../../assets/about-hero.png";
 import innovation from "../../assets/innovation.png";
-import integrity from "../../assets/integrity.png";
+import integrity from "../../assets/Intergrity";
 import growth from "../../assets/Growthh.png";
 import journey from "../../assets/growthjourney.png";
 
